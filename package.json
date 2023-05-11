@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "pintura-example-nuxt-3",
+  "version": "0.0.0",
+  "author": "Rik Schennink at PQINA",
+  "license": "https://pqina.nl/pintura/license/",
+  "homepage": "https://pqina.nl/pintura/",
+  "description": "A Pintura Nuxt 3 example Project",
+  "scripts": {
+    "start": "npm run dev",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "@pqina/pintura": "^8.x",
+    "@pqina/vue-pintura": "^8.x"
+  }
+}
