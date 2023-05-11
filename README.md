@@ -2,7 +2,7 @@
 
 Run `npm install` to install project dependencies, then run `npm start` to start the development server.
 
-Navigate to http://localhost:3000 to view the project.
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/pqina/pintura-example-nuxt-3)
 
 ### License
 
